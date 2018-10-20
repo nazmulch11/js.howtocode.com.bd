@@ -1,6 +1,6 @@
 জাভাস্ক্রিপ্ট এ কোন অ্যারে থেকে প্রথম উপাদান বাদ দিতে array-shift ব্যাবহার করা হয় । 
 
-উদাহরণঃঃ 
+উদাহরণঃ
 <code>
 <html>
    <head>
@@ -18,7 +18,7 @@
 </html>
 </code>
 
-ফলাফলঃঃ 
-<code>
+ফলাফঃঃ 
+<code style="padding: 5px">
 Removed element is : 105
 </code>
